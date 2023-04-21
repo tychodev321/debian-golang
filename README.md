@@ -1,2 +1,2 @@
-# ubi-golang
+# ubuntu-golang
 
